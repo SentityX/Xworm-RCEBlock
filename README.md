@@ -5,5 +5,6 @@ ANTI-RCE Remote Command Execution From HRDP
 
 Result Total Virus Scan Project me : https://www.virustotal.com/gui/file/67647e30cf6fd459ecc4e9ca4559a0fed300855c295623dfc51e60bea0386d7d/detection
 
-Protect against hdrp or hidden remote desktop vulnerabilities from Xworm Rat.\r\n
+Protect against hdrp or hidden remote desktop vulnerabilities from Xworm Rat.
+
 This project is for research and learning purposes only.
